@@ -1,0 +1,77 @@
+body {
+  background-color: #	#fddb9e;
+}
+
+hr {
+  background-color: #2d364c;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  height: 2px;
+  width: 30%;
+  pading: 5px;
+;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+h1 {
+  color: #2d364c;
+  font-family: Arial, sans-serif
+}
+
+.about_me_div {
+  background-color: #fef9f2;
+  margin: 0 auto;
+  width: 50%
+}
+
+.about_me_description_hello {
+  max-width: 100%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+}
+
+
+.about_me_description {
+  max-width: 100%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+h3 {
+  color: #455263;
+}
+
+
+h1 {
+  color:
+}
+
+
+.header {
+  background-color: #fef9f2;
+  padding: 5px;
+}
+
+.contact_me {
+  background-color: 	#fddb9e;
+}
+
+
+form {
+  background-color: #fbeea8;
+  width: 50%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  align-items: center; /* center horizontally */
+  justify-content: center; /* center vertically */
+  height: 100%;
+  padding: 30px;
+
+}
